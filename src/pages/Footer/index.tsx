@@ -74,7 +74,7 @@ function Footer() {
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
               <MdFingerprint className='navbar-icon' />
-              App2u.co
+              Dev4U.app
             </Link>
           </div>
           <small className='website-rights'>App2u.co © 2020</small>
