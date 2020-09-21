@@ -27,7 +27,7 @@
   </a>
 </p>
 
-## :idea: About
+## :smiley: About
 
 This project was created to be able to create a collection of developers in the world. Just a big list with a search for skills.
 
