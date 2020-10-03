@@ -4,11 +4,11 @@
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/frf/react-dev4u-website.svg">
-  <a href="https://github.com/lukemorales/bancointer/commits/master">
+  <a href="https://github.com/frf/react-dev4u-website/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/frf/react-dev4u-website.svg">
   </a>
 
-  <a href="https://github.com/lukemorales/bancointer/issues">
+  <a href="https://github.com/frf/react-dev4u-website/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/frf/react-dev4u-website.svg">
   </a>
 
